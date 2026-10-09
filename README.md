@@ -35,6 +35,8 @@ The dataset comes from the [Maven Analytics Data Playground](https://www.mavenan
 
 ## Dashboard Visuals
 
+![Winter Food and Beverages Dashboard](Screenshot%202026-10-09%20194657.png)
+
 - Total Food Items by Country
 - Total Price by Food Item
 - Total Price by Season
@@ -42,7 +44,7 @@ The dataset comes from the [Maven Analytics Data Playground](https://www.mavenan
 - Total Food Items by Season
 - Average Popularity Score by Food Item
 
-**Slicers:** Season, Type (Drink, Snack, Soup) and Item. Use them to filter every chart at once.
+*Slicers:* Season, Type (Drink, Snack, Soup) and Item. Use them to filter every chart at once.
 
 ## Insights
 
@@ -63,11 +65,11 @@ The dataset comes from the [Maven Analytics Data Playground](https://www.mavenan
 ## How to Use
 
 1. Open the workbook in Excel.
-2. Go to the **Dashboard** sheet.
+2. Go to the *Dashboard* sheet.
 3. Click the Season, Type or Item slicers to filter the charts.
 4. Click a selected slicer button again to clear the filter.
 
 ## Author
 
-**Taiwo Ajiboye Muyideen**
+*Taiwo Ajiboye Muyideen*
 Lagos, Nigeria
