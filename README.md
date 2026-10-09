@@ -35,7 +35,7 @@ The dataset comes from the https://www.kaggle.com/datasets.
 
 ## Dashboard Visuals
 
-![Winter Food and Beverages Dashboard](Screenshot%202026-10-09%20194657.png)
+![Winter Food and Beverages Dashboard](Screenshot%202026-10-09%20204841.png)
 
 - Total Food Items by Country
 - Total Price by Food Item
