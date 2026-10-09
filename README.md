@@ -8,7 +8,7 @@ This project summarises 150 winter food and beverage items across three seasons 
 
 ## Data Source
 
-The dataset comes from the (https://www.kaggle.com/datasets).
+The dataset comes from the https://www.kaggle.com/datasets.
 
 ## Tools Used
 
