@@ -8,7 +8,7 @@ This project summarises 150 winter food and beverage items across three seasons 
 
 ## Data Source
 
-The dataset comes from the [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground).
+The dataset comes from the [Maven Analytics Data Playground](https://www.kaggle.com/datasets).
 
 ## Tools Used
 
